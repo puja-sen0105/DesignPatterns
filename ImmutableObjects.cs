@@ -6,7 +6,7 @@ namespace DesignPatterns
 {
     //https://www.c-sharpcorner.com/article/all-about-c-sharp-immutable-classes2/
     // Immutable Class means a class which once created, its state cannot be changed later by any means internally or externally.
-    //Read Only properties
+    // Read Only properties
     // Parametrized constructor to initialize properties,
     class ImmutableObjects
     {
