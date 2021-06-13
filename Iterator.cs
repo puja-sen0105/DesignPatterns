@@ -21,6 +21,7 @@ namespace DesignPatterns
         // another comment
         //new confilict
 
+        // another comment
         // Rewinds the Iterator to the first element
         public abstract void Reset();
     }
