@@ -18,6 +18,7 @@ namespace DesignPatterns
         // Move forward to next element
         public abstract bool MoveNext();
 
+        // another comment
         // Rewinds the Iterator to the first element
         public abstract void Reset();
     }
